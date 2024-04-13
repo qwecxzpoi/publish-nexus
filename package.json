@@ -12,6 +12,7 @@
   "devDependencies": {
     "@antfu/eslint-config": "^2.13.3",
     "@types/inquirer": "^9.0.7",
+    "@types/node": "20",
     "eslint": "8",
     "esno": "^4.7.0",
     "inquirer": "^9.2.17"
